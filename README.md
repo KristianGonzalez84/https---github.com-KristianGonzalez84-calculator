@@ -4,7 +4,7 @@
 
 can be used in url web browser or Postman ( I prefer Postman ).
 
-# In Postman set it to 'POST' then http://localhost:3000/signup and in body use:
+# In Postman set it to 'POST' then http://localhost:3000/signup for signup first and in body use:
 {
   "name": "****",
   "email": "****",
